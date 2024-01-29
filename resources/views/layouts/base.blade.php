@@ -18,7 +18,7 @@
 
     @livewireScripts
     <script src="{{ asset('js/app.js') }}"></script>
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB4Y8nkJMW4GryuN4he6SKoeb2idBzg8gA&libraries=geometry"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?&libraries=geometry"></script>
     <script src="{{ asset('js/map_alt.js') }}"></script>
 </body>
 </html>
